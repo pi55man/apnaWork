@@ -1,0 +1,133 @@
+country,hourlyRate,jobSuccess,locality,name,skills,title,totalHours,totalJobs,latitude,longitude
+Egypt,25,97%,Giza,Abeer K.,Python|Machine Learning|Scrapy|Data Science|SQL|Microsoft Power BI|IBM SPSS|Data Visualization|Dashboard|Data Extraction|Data Cleaning|Data Modeling|Statistics|Microsoft Excel,Data Scientist | Web Scraping Engineer,405,69,72.5714,72.5714
+Serbia,15,97%,Belgrade,Nikola M.,Data Entry|Google Docs|Online Research|Lead Generation|Data Analysis|DOS Administration|Topic Research|Administrative Support|Web Analytics|Contact List|Agriculture & Forestry|Consumer Research|Qualitative Research|Science & Medicine,Researcher,354,68,77.5946,77.5946
+Philippines,60,100%,Manila,"Ramil, Jr. A.",Microsoft Excel|Excel Formula|Excel Macros|Visual Basic for Applications|Automation|Macro Programming|Scripts & Utilities|Data Modeling|Dashboard|Data Analysis|Data Science|Google Sheets|Google Sheets Automation|Google Apps Script|Spreadsheet Software,Excel | VBA | Macros | Google Sheets Expert,15,351,80.2707,80.2707
+United States,500,100%,Wyckoff,Jason K.,Deep Learning|Python|Data Science|Machine Learning|Data Visualization|Artificial Intelligence|Data Mining|Selenium|Data Scraping,Data Science & AI Expert- Senior Machine Learning Engineer at LinkedIn,434,80,77.1025,77.1025
+Pakistan,25,82%,Karachi,Muhammad Noman B.,Data Science|Machine Learning|pandas|Microsoft Power BI|Python|Natural Language Processing|Deep Learning|Data Science Consultation|TensorFlow|Flask|Matplotlib|Artificial Intelligence|Amazon Web Services|Data Analysis|Data Visualization|Data Extraction|Django|ETL|RESTful Architecture|PostgreSQL,Data Science | Python Projects | Machine Learning AI Assignments R GUI,4,11,72.8777,72.8777
+India,20,86%,Bhopal,Pragyesh S.,Adobe Illustrator|MATLAB|Political Science|Python|Computer Science|Managerial Finance|Civil Engineering|Data Analysis|Financial Analysis|Academic Writing|IBM SPSS|Research Papers|Electrical Engineering|Data Science|Research & Strategy,Professional Academic Writer and Coach,14,74,78.4867,78.4867
+India,35,97%,Katch,Devendra R.,Python|Odoo Development|Artificial Intelligence|Odoo|API Development|Data Science|Ecommerce Website Development|Machine Learning|Warehouse Management|Shopify|Odoo Administration|Inventory Management|RFID|JavaScript|PostgreSQL,Odoo Expert | Odoo Consultant | AI & ML | Data Scientist,917,54,88.3639,88.3639
+Pakistan,59.99,98%,Karachi,Dr . M Mansoor M.,Research Paper Writing|Medical Writing|Medical Editing|Academic Research|Academic Writing|Academic Editing|Academic Proofreading|Medical Report|Scientific Research|Scientific Writing|Research Proposals|Data Analysis|IBM SPSS|Biostatistics|Literature Review,Expert Medical Writer | Medical Researcher |Academic Writer| Doctor,212,129,73.8567,73.8567
+Bangladesh,30,100%,Dhaka,Mahabubur R.,Microsoft Power BI|Dashboard|SQL|Tableau|Looker Studio|Business Intelligence|Yellowfin BI|Database Report|Microsoft SQL Server|Data Analysis|Data Mining|Metabase|Data Science|Data Modeling|SQL Programming,"Metabase Expert, Data Analyst, SQL + Google Looker Studio +BigQuery",347,21,76.9366,76.9366
+United States,45,,Las Cruces,Trenton S.,Microsoft SQL Server|Python|SQL|Data Analysis|Microsoft Excel|Tableau|Data Visualization|Microsoft Power BI,Data Analysis and Insights | Transforming Data Actionable Business,60,2,75.7873,75.7873
+Pakistan,15,100%,Karachi,Fasih U.,Apache Spark|Data Science|Data Visualization|Python|SQL|Business Intelligence|Apache Kafka|Apache Hive|Big Data|Apache NiFi|Data Engineering|API Development|Data Analysis|Data Warehousing & ETL Software,Data Engineer | Big Data | AirFlow | Python | ETL | PySpark | SQL |,,12,80.9462,80.9462
+Egypt,60,91%,Aswan,Islam A.,Microsoft Power BI|Python|SQL|Data Scraping|Data Visualization|Amazon Web Services|Microsoft Azure|NoSQL Database|Data Mining|Machine Learning|Data Science|Artificial Intelligence|Chatbot|Deep Learning|Natural Language Processing,"Transforming Data into Profit: Python, Data Science, and AI Expertise",50,24,77.4126,77.4126
+India,25,92%,New Delhi,Ajay B.,Python|Full-Stack Development|Back-End Development|Front-End Development|MERN Stack|Database Modeling|Machine Learning|Data Analytics|Data Science|Cloud Database|API Integration|Dashboard|Data Visualization|ChatGPT|Elasticsearch,Python Full Stack- Dashboard| Data Science| Analytics| AI/ML| NLP| API,902,160,85.1376,85.1376
+United States,100,97%,Edison,Shankar M.,Python|Data Science|Chief Architect|Google Cloud Platform|Microsoft Azure|Truffle|React|Solution Architecture|Blockchain|Smart Contract|Solidity|Node.js|Rust|Ethereum|web3.js,Open AI | Gen AI | ChatGPT | Blockchain Architect | CTO | Azure | AWS,520,138,91.7362,91.7362
+Ethiopia,25,,Addis Ababa,Yabebal F.,Python|SQL|Amazon Web Services|GitHub|Generative AI|React|Azure OpenAI Service|Machine Learning|Artificial Intelligence|Data Science|LLM Prompt|Bot Development|AI Consulting|ChatGPT Prompt|Midjourney Prompt,Generative AI & Prompt Engineer + AI Developer & Consultant,97,2,76.2673,76.2673
+Pakistan,20,100%,Gujrat,Wasi U.,Scrapy|Selenium|Web Scraping|Python|Data Extraction|Python-Requests|Beautiful Soup|ETL Pipeline|Lead Generation|Web Development|Django|Data Science|Database|Data Visualization|Amazon Web Services,Full-Stack Web Developer| Django| React| Node| Python Web Scraping,682,67,75.8577,75.8577
+India,25,87%,New Delhi,Uttam A.,Python|JavaScript|Dashboard|Looker Studio|Microsoft Power BI|Machine Learning|Elasticsearch|Neo4j|Natural Language Processing|RESTful API|GraphQL|Data Mining|Data Analytics|Data Lake|Data Modeling,Data Engineer | SQL | AI/ML | NLP| Power BI | Kibana | Dashboard | API,821,45,80.648,80.648
+Nigeria,14.99,89%,Lekki Peninsula,Emmanuel O.,Data Entry|Microsoft Excel|Problem Solving|Google Analytics|Database Programming|Microsoft SQL Server|Microsoft Power BI|Data Analytics|SQL|Spreadsheet Software|Tableau|Python|Information Analysis|Data Analysis|Data Visualization,Data Analyst | SQL | Tableau | Excel | Python | Power BI,79,32,72.8311,72.8311
+Finland,40,95%,Oulu,Doreen B.,Accounting|Academic Research|Health Science|Psychology|Research Methods|Proposal Writing|Dissertation Writing|Thesis|Literature Review|Essay Writing|Research Papers|Editing & Proofreading|Research Paper Writing|Business Plan|APA Formatting,"Adept PhD Copyeditor, White Paper, Business Plan and Academic Writer.",69,159,79.0882,79.0882
+Pakistan,45,89%,Peshawar,Muhammad Ameer H.,Microsoft Excel|Microsoft Power BI|Data Visualization|Looker Studio|Tableau|Sales Analytics|Business Intelligence|Data Analysis|Google Tag Manager|Data Science|Machine Learning|Analytics Dashboard|Oracle|Google Ads|SQL Programming,Python/Flask/ChatGPT | Machine Learning | AI | Web Scraping,956,37,83.2185,83.2185
+India,30,94%,Delhi,Mani V.,Python|Machine Learning Framework|Artificial Intelligence|React|Node.js|JavaScript|Kibana|Microsoft Power BI Development|Dashboard|Elasticsearch|Data Visualization|Neo4j|ChatGPT|API Integration|Data Analysis Consultation,"Python, Data Science, Analytics, AI/ML, Dashboard, ETL Pipeline, NLP",706,76,78.0081,78.0081
+India,40,100%,Noida,Nidhi B.,Python|Computer Vision|Natural Language Processing|Python Scikit-Learn|Data Science|Machine Learning|SQL|Content Writing|Artificial Intelligence|Technical Writing|Content Creation|Content SEO|SQLite|MongoDB|Data Mining,"Data Scientist, AI/ML enthusiast and Technical Content Writer",209,28,74.8723,74.8723
+Cyprus,65,100%,Limassol,Nick V.,Tableau|Looker Studio|SQL|Business Intelligence|Dashboard|Data Analysis|Data Visualization|BigQuery|ClickHouse|Data Ingestion|Data Transformation|Google Sheets|Data Analytics|Sales Analytics|Report,Analytics Wizard for Cloud-Based | Ph.D. Data Engineer & Analyst,210,29,82.9739,82.9739
+India,7.99,100%,Mohali,Sakshi B.,SEO Writing|Search Engine Optimization|Meeting Notes|PHP|Academic Writing|Distance Education|Online Instruction|MATLAB|Data Entry|Article Writing|Tutoring,"Writer: Article, Blog, Academic Writing Expert+ Data Analyst, Power BI",178,364,76.6394,76.6394
+India,35,95%,New Delhi,Rajveer S.,Data Visualization|Looker Studio|Google Sheets|JavaScript|Google Workspace Administration|WordPress|Gmail|Google Docs|Google Apps Script|Financial Modeling|Report|Data Migration|Data Science Consultation|Google|Google Analytics,Full Stack Developer | Web Application Development | Google Workspace,709,165,73.0243,73.0243
+Pakistan,10,77%,Lahore,Muhammad N.,Python|Data Scraping|List Building|Lead Generation|Data Science|Data Analysis|Social Media Lead Generation|LinkedIn Development|Google Maps API|HubSpot|Zapier|Extension Installation|Zoho CRM|Mailchimp|Contact List,Website and LinkedIn Data Scrapping and Lead Generation Expert,,26,76.9558,76.9558
+Turkey,150,84%,Istanbul,Pavel A.,Data Science|Deep Learning|Natural Language Generation|Natural Language Processing|Machine Learning|Reinforcement Learning|Stable Diffusion|Midjourney AI|Neural Network|ChatGPT|GPT-3|GPT-4|Big Data|Data Analysis|Generative AI,"GPT-4, chatGPT, LLMs, Generative AI Product Expert",917,60,80.3319,80.3319
+India,10,100%,New Delhi,Snehit D.,Python|Scrapy|MySQL|Python Script|Automation|Translation|Machine Learning|Spanish|Web Scraping|Data Analytics|Selenium|Data Scraping|Data Collection|Data Science|Exploratory Data Analysis,Python Developer & Web Scraping Expert who speaks Argentinian Spanish,227,39,70.8022,70.8022
+Pakistan,5.5,99%,Bahawalpur,Muhammad Gulraiz H.,Data Cleaning|Lead Generation Strategy|Lead Generation|Data Entry|List Building|Real Estate|Online Research|Sales Lead Lists|Data Collection|Data Scraping|Real Estate Appraisal|Transaction Data Entry|Information Gathering|B2B Lead Generation|Email Sourcing,"Web Researcher, Lead Generation, Real Estate, Data Entry, VA",996,209,81.6296,81.6296
+,18,96%,Elk Grove Village,Muhammad U.,Market Research|Lead Generation|Data Entry|List Building|Data Scraping|Data Mining|Administrative Support|Accuracy Verification|Error Detection|Prospect List|Sales Lead Lists|PDF Conversion|Web Scraping|Internet Marketing|LinkedIn Lead Generation,B2B Lead Generation/Zoominfo/Contact List/Sales Leads/LinkedIn Sales,497,96,76.7794,76.7794
+Pakistan,30,,Karachi,Aveen F.,pandas|Machine Learning|Python|Data Science|R|Tableau|Matplotlib|SQL|Data Preprocessing|Microsoft Power BI|Data Cleaning|Data Wrangling|Interactive Data Visualization|Apache Hadoop,Senior Data Scientist,22,3,78.1828,78.1828
+Egypt,30,100%,Cairo,Mahmoud D.,Microsoft Power BI|Microsoft Excel|Business Analysis|Excel Macros|Microsoft Word|Business Consulting|Looker Studio|Microsoft PowerPoint|Microsoft Excel PowerPivot|Data Analysis|Data Visualization|Power Query,"Excel, PBI, SQL Expert, Data Analyst, Loughborough Engineering, MBA",88,486,79.9864,79.9864
+India,15,96%,Indore,Parv Y.,Python|Lead Generation|Looker Studio|Data Science|SQL|Web Crawling|Data Mining|Automation|Data Scraping|Microsoft Power BI|Data Visualization|Beautiful Soup|ETL|Data Analysis|Data Extraction,"Data Scientist (Web Scrapping, ETL, ML, NLP)",71,31,75.3433,75.3433
+Pakistan,30,100%,Bahawalpur,Junaid U.,Data Engineering|Python|Data Integration|SQL|Analytics|Data Extraction|Amazon Web Services|Google Cloud Platform|API|Data Analytics|Data Scraping|Business Intelligence|Marketing Analytics|Amazon DynamoDB,Data Engineer,442,15,78.1198,78.1198
+Pakistan,30,98%,Lahore,Zeeshan A.,Python|Selenium|Bot Development|Data Science|Node.js|Automation|Artificial Intelligence|API|ChatGPT|Chatbot|Django|Next.js|MERN Stack|Web Development|LangChain,Senior Full Stack Developer | Python | Node.js | React.js | AI,8,51,73.7898,73.7898
+Pakistan,38,100%,Karachi,Sana S.,Presentation Design|Data Entry|Microsoft Office|Infographic|Data Visualization|Pitch Deck|Logo Design|Template Design|Graphic Design|Administrative Support|Data Analysis|Virtual Assistance|Editorial Design|Presentations|Brochure Design,Graphic Design & Presentation Design | Data Entry & Admin Support,763,124,77.7064,77.7064
+Egypt,40,100%,Zagazig,Zeyad M.,OpenCV|R|Python Scikit-Learn|Feature Extraction|NLTK|PyTorch|Keras|Data Science|pandas|Machine Learning|Python|TensorFlow|Matplotlib|Data Visualization|Data Analysis,Data Scientist | Machine learning Engineer,82,12,75.8573,75.8573
+Bangladesh,5.99,98%,Sylhet,Bashir A.,Data Extraction|Email List|Data Entry|List Building|Prospect Research|Lead Generation|On-Page SEO|Technical SEO|Ecommerce SEO|Page Speed Optimization|Content Upload|Virtual Assistance|Website Maintenance|Ecommerce Product Upload|SEO Backlinking,"Virtual Assistant | Website Maintenance, Lead Generation, SEO Expert",107,158,73.1812,73.1812
+India,22.5,100%,Bhutli,Ajit T.,Google Sheets|Presentations|Microsoft Excel|Data Visualization|Data Analysis|Administrative Support|Webflow|Google Docs|Data Mining|Asana|Content Management System|Data Migration|Data Cleaning|ClickUp|Digital Project Management,Tech Admin VA - Excel & Gsheets | Data entry | ETL | Email lists,413,49,76.2144,76.2144
+Pakistan,20,,Karachi,Zain A.,Apache Spark|Informatica|SQL|Python|Machine Learning|Cloudera|Big Data|Snowflake|Apache Hive|Apache Impala|Apache NiFi|Data Management|Apache Airflow|Nomad|Google Cloud Platform|Data Analysis,Data Engineer,36,3,86.4304,86.4304
+,20,99%,Stone Mountain,Mfonabasi I.,Microsoft Word|Microsoft Excel|Data Entry|Google Docs|Proofreading|Administrative Support|Form Development|Shopify|Data Analysis|Google Sheets|Amazon|Data Processing|Microsoft PowerPoint|WordPress|Data Management,Expert Data Entry Specialist - Data Manager - Web Researcher,798,353,85.3096,85.3096
+Pakistan,10,100%,Faisalabad,Ahmad I.,Python|TensorFlow|Python Scikit-Learn|Deep Learning|Machine Learning Model|Deep Learning Modeling|Data Science|Machine Learning|Python Numpy FastAI|Python Script|Bot Development|Django|Artificial Intelligence|Data Scraping,Machine Learning | Artificial Intelligence | Python Development,212,18,77.3178,77.3178
+Pakistan,4,93%,Rajanpur,Rajab S.,Email Marketing|Data Cleaning|Lead Generation|Salesforce CRM|Sales & Marketing|Appointment Setting|Accuracy Verification|Google Sheets|Online Research|Data Scraping|Data Collection|LinkedIn Recruiting|Virtual Assistance|Data Analytics & Visualization Software|Prospect List,Lead Generation | Information Retrieval | Remote Support | CRM_Entries,221,45,77.4538,77.4538
+Bangladesh,20,100%,Dhaka,Md Omor Faruk B.,Web Scraping|Selenium|Data Scraping|Beautiful Soup|Python|Scrapy|Data Extraction|Web Crawling|Data Analysis|Email Sourcing|Lead Generation|Data Visualization|Market Research|LinkedIn Recruiting|Prospect List|Data Mining|Lead Nurturing|Data Collection|Internet Marketing|Social Media Marketing|Email Marketing|Lead Magnet|Customer Relationship Management|Automation,Web Scraping |Data Scraping |Data Mining | Data Analysis,607,284,86.2029,86.2029
+India,25,100%,Gurgaon,Noushad A.,Data Mining|Scrapy|Python|Data Extraction|ETL|html2text|Python-Requests|Data Scraping|Web Crawling|Data Collection|PDF Conversion|Automation|Database Management,"Web Scraper, Data Scientist, Python Developer",737,64,77.0266,77.0266
+Pakistan,30,100%,Karachi,Nabeel F.,Data Visualization|SQL|Apache Hive|BigQuery|Python|QlikView|Snowflake|Apache Kafka|Data Warehousing|Databricks Platform|Amazon Redshift|dbt|Apache Spark|ETL|AWS Glue,Data Engineer | Databricks | GCP | Azure | AWS | Snowflake | AI,182,55,74.7973,74.7973
+India,25,100%,Mohali,vikas k.,Java|Ruby on Rails|Node.js|Vue.js|JavaScript|Ecommerce Website|React|Spring Boot|DevOps|Machine Learning|Selenium|Spree|Data Science|ETL Pipeline,ROR | Node | Next | Angular | React | AWS | SPREE | Data Scraping,505,38,77.391,77.391
+India,30,100%,Vadodara,Rutvik P.,Tableau|R|Python|Microsoft Power BI|Apache Spark|SQL|Machine Learning|Data Science|Business Intelligence|Statistics|Amazon Redshift|Data Mining|ETL Pipeline|Big Data|Data Management,Data Engineer,985,11,77.1734,77.1734
+Pakistan,36,100%,Islamabad,Malik Haseeb H.,Artificial Neural Network|Python|Machine Learning|Deep Learning|Computer Vision|Natural Language Processing|Data Science|Image Processing|Artificial Intelligence|MERN Stack|Web Development|Website Builders & CMS Consultation|Web Application|Full-Stack Development|Chatbot Development,SAAS Developer | Deep Learning | Open AI | NLP | SaaS MVP,274,44,76.3388,76.3388
+India,28,96%,Ghaziabad,Varun D.,SQL|Looker|Microsoft Power BI|Business Intelligence|Microsoft Power BI Data Visualization|Database|Data Warehousing|Data Modeling|Microsoft Power BI Development|Microsoft Power Automate|Microsoft PowerApps|Data Migration|Flutter|React Native,"Consulting | Outsourcing | IT Staffing - Software, Web, APP , E-com",59,14,74.856,74.856
+Pakistan,10,100%,Islamabad,Muhammad M.,Microsoft Office|Social Media Lead Generation|Data Entry|Lead Generation|Google Docs|Microsoft Excel|Data Mining|Email List|LinkedIn|Contact List|Data Scraping|Prospect List|B2B Lead Generation,Lead Generation and Data Entry Expert,361,176,78.0322,78.0322
+India,29,100%,Jaipur,Pratik D.,Neo4j|Oracle PLSQL|Content Writing|Jakarta Server Pages|Data Analytics|ETL Pipeline|Database Architecture|NoSQL Database|Technical Writing|MySQL Programming|Data Science|Java|Business Intelligence,"Seasoned Backend Developer/ Technical Writer/ Java, SQL, NoSQL, R, ETL",932,51,84.8536,84.8536
+Bangladesh,5,97%,Khulna,Eishwar c.,List Building|Lead Generation|Copy & Paste|Data Entry|Online Research|Data Mining|LinkedIn|Administrative Support|Prospect List|LinkedIn Sales Navigator|Contact List|Contact Info Research|Email List|B2B Lead Generation,Expert Lead Generation-Data Entry-Email Finding-List Building,941,146,20.2961,85.8245
+Germany,,,,,,,,,,
+Australia,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Saudi Arabia,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Nigeria,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Latvia,,,,,,,,,,
+India,,,,,,,,,,
+India,,,,,,,,,,
+,,,,,,,,,,
+Philippines,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Israel,,,,,,,,,,
+Egypt,,,,,,,,,,
+Egypt,,,,,,,,,,
+Algeria,,,,,,,,,,
+Pakistan,,,,,,,,,,
+India,,,,,,,,,,
+India,,,,,,,,,,
+France,,,,,,,,,,
+India,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Morocco,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Egypt,,,,,,,,,,
+Algeria,,,,,,,,,,
+United States,,,,,,,,,,
+Brazil,,,,,,,,,,
+India,,,,,,,,,,
+Brazil,,,,,,,,,,
+Egypt,,,,,,,,,,
+Pakistan,,,,,,,,,,
+India,,,,,,,,,,
+Yemen,,,,,,,,,,
+United States,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Philippines,,,,,,,,,,
+United States,,,,,,,,,,
+United States,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+United States,,,,,,,,,,
+Egypt,,,,,,,,,,
+Ukraine,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Nepal,,,,,,,,,,
+Egypt,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Egypt,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Pakistan,,,,,,,,,,
+India,,,,,,,,,,
+,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Canada,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Mexico,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Georgia,,,,,,,,,,
+Nigeria,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Kenya,,,,,,,,,,
+India,,,,,,,,,,
+Pakistan,,,,,,,,,,
+Argentina,,,,,,,,,,
+Bangladesh,,,,,,,,,,
+Morocco,,,,,,,,,,
+India,,,,,,,,,,

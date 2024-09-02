@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/uiux/page": "app/uiux/page.js",
+  "/webdev/page": "app/webdev/page.js",
+  "/agriculture/page": "app/agriculture/page.js",
+  "/login/page": "app/login/page.js",
+  "/datascience/page": "app/datascience/page.js",
+  "/freelancerform/page": "app/freelancerform/page.js"
+}

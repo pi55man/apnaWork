@@ -1,0 +1,36 @@
+// prisma/schema.prisma
+
+datasource freelance {
+  provider = "postgresql"
+  url      = "postgresql://postgres:chauhan@localhost/freelance?schema=public"  // Make sure to set this in your .env file
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id         Int  @unique @default(autoincrement())
+  email     String   @unique
+  password  String
+  name       String   
+  skills     String?
+  totalJobs  Int?
+  latitude   Float?
+  longitude  Float?
+
+  @@map("users") // Optional: maps this model to the "users" table in your database
+}
+
+model Job {
+  id          Int  @unique @default(autoincrement())
+  title       String   
+  description String?
+  skills      String?
+  pay         Int?
+  latitude    Float?
+  longitude   Float?
+
+  @@map("jobs") // Maps this model to the "job" table
+  
+}

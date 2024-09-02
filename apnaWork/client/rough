@@ -1,0 +1,10 @@
+    <div>
+    <h1 className='text-center text-5xl font-bold'>Why Choose Us <span className='text-red-600'>!</span></h1>
+    <div className='byskill w-[70%] h-[450px] flex justify-center gap-[40px] max-w-[1500px] mx-auto mt-6'>
+<Image className='w-[24%] h-[100%] object-cover border rounded-md transition-all ease-in-out duration-500 hover:w-[35%]' src="/img/img/1.jpg" alt='' width={300} height={300}/>
+<Image className='w-[24%] h-[100%] object-cover border rounded-md transition-all ease-in-out duration-500 hover:w-[35%]' src="/img/img/2.png" alt='' width={300} height={300}/>
+<Image className='w-[24%] h-[100%] object-cover border rounded-md transition-all ease-in-out duration-500 hover:w-[35%]' src="/img/location/3.jpg" alt='' width={300} height={300}/>
+
+    </div>
+
+</div>
